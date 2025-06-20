@@ -56,18 +56,18 @@ This model empowers farmers, agronomists, and agricultural tech platforms to ide
 
 ### 🔧 Installation
 
-``bash
+<pre>bash
 git clone https://github.com/ssshantanu/Maize-disease-classifier.git
 cd Maize-disease-classifier
-pip install -r requirements.txt``
+pip install -r requirements.txt</pre>
 
 
 ### 🔍 Inference Example
 
-``from PIL import Image
+<pre>from PIL import Image
 img = Image.open("path_to_leaf_image.jpg")
 predicted_label = predict_image(img, model, transform, device)
-print(predicted_label)``
+print(predicted_label)</pre>
 
 ## 🌾 Use Cases
 
