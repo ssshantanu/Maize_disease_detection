@@ -1,8 +1,9 @@
 # 🌽 Maize-disease-classifier
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssshantanu/Maize-disease-classifier/blob/main/maize_classifier.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ssshantanu/Maize_disease_detection/blob/main/Maize_disease_detection_model.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
+
 
 ---
 
@@ -91,7 +92,7 @@ print(predicted_label)</pre>
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)  
-![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)  
+![Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white)(https://colab.research.google.com/github/ssshantanu/Maize_disease_detection/blob/main/Maize_disease_detection_model.ipynb)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?logo=python&logoColor=white)  
 ![Seaborn](https://img.shields.io/badge/Seaborn-0769AD?logo=python&logoColor=white)
 
